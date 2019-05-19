@@ -75,5 +75,5 @@
 /* preloading images */
 .owl-item.loading{
 	min-height: 150px;
-	background: url(/https://ryusyler.github.io/testwebsite/wp-content/themes/healthcare/css/AjaxLoader.gif) no-repeat center center
+	background: url(http://localhost/https:/ryusyler.github.io/testwebsite/wp-content/themes/healthcare/css/AjaxLoader.gif) no-repeat center center
 }
